@@ -26,22 +26,6 @@ div
     heigth: 20px;
     background: whitesmoke;
 }
-ul
-{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 100px;
-    background-color:  lightskyblue;
-}
-li a
-{
-    display: block;
-    color: gray;
-    padding:1px 5px;
-    text-decoration: underline;
-    align-self: flex-start;
-}
 
 .padre
 {
@@ -61,3 +45,21 @@ li a:hover {
     background-color: #555;
     color: white;
 } 
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    background-color:  lightskyblue;
+}
+li a
+{
+    display: block;
+    color: gray;
+    padding:1px 5px;
+    text-decoration: underline;
+    align-self: flex-start;
+}
+

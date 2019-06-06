@@ -7,7 +7,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <p>Bienvenido a la Administración de Usuarios!!!</p>
+        <p>Bienvenido a la consulta de multas por favaor ingrese su DNI!!!</p>
         <table>
             <tr>
                 <th>Id Usuario</th>
